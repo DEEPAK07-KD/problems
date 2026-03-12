@@ -29,6 +29,6 @@ class MenuDriven
 		}
 		System.out.println("The Even Count Numbers is :"+ecount);
 		System.out.println("The Odd Count Numbers is :"+ocount);
-		
+		System.out.println("Exit");
 	}
 }
